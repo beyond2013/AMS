@@ -1,3 +1,2 @@
-A sample file created for working with version control.
 Second line on the same file.
 Third line on this file by Arsalan
