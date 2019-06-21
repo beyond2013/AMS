@@ -1,1 +1,2 @@
 A sample file created for working with version control.
+Second line on the same file.
